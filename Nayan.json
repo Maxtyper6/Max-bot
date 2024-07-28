@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "Tiana",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "Tiana-bot",
+  "PREFIX": "!",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
-  ],
-  "ADMINBOT": [
-    "100000959749712",
+    "61558781182434",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "ADMINBOT": [
+    "61558781182434",
+    ""
+  ],
+  "OWNER": ["61558781182434"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
